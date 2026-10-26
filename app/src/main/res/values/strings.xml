@@ -1,3 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">Examen_1_Registro_Contacto</string>
+    <string name="app_name">Gestión de Contactos</string>
+    <string name="imagen_contacto">Imagen del Contacto</string>
+    <string name="agregar_imagen">Agregar imagen</string>
+    <string name="pais">País</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="nota">Nota</string>
+    <string name="hint_nombre">Nombre del contacto</string>
+    <string name="hint_telefono">Número de teléfono</string>
+    <string name="hint_nota">Escriba una nota</string>
+    <string name="salvar_contacto">Salvar Contacto</string>
+    <string name="contactos_salvados">Contactos Salvados</string>
+    <string name="atras">Atrás</string>
+    <string name="buscar">Buscar</string>
+    <string name="compartir_contacto">Compartir Contacto</string>
+    <string name="ver_imagen">Ver Imagen</string>
+    <string name="eliminar_contacto">Eliminar Contacto</string>
+    <string name="actualizar_contacto">Actualizar Contacto</string>
+    <string name="llamar">Llamar</string>
 </resources>

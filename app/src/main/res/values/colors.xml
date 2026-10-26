@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="texto">#222222</color>
+    <color name="verde_texto">#2E7D32</color>
+    <color name="verde_boton">#2E8B3A</color>
+    <color name="verde_llamada">#2EAD5B</color>
+    <color name="azul_boton">#2F6FD0</color>
+    <color name="nota_fondo">#B5D6A7</color>
+    <color name="seleccion">#9EC5F2</color>
+    <color name="borde">#333333</color>
 </resources>
