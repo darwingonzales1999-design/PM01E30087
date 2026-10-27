@@ -124,7 +124,7 @@ public class ListaContactosActivity extends AppCompatActivity {
                 .setTitle("Acción")
                 .setMessage("Desea llamar a " + c.getNombre())
                 .setNegativeButton("No", null)
-                .setPositiveButton("Yes", (d, w) -> {
+                .setPositiveButton("Sí", (d, w) -> {
                     Intent i = new Intent(this, LlamarActivity.class);
                     i.putExtra(LlamarActivity.EXTRA_NOMBRE, c.getNombre());
                     i.putExtra(LlamarActivity.EXTRA_NUMERO, "+" + c.getTelefonoCompleto());
